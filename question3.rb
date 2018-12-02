@@ -129,7 +129,7 @@ end
 
 catalogue1 = Catalogue.new("CarCatalogue.txt")
 catalogue1.saveCatalogueToFile("OrderedCars2.txt")
-catalogue1.add2Inventory('km,Sedan,Manual,18131A,FWD,Used,5.5L/100km,Toyota,camry,SE,{AC, Heated Seats, Heated Mirrors, Keyless Entry},2010')
+
 
 
 
